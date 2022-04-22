@@ -2,7 +2,7 @@
 
 https://launchpad.net/~shubhamtatvamasi
 
-Upload your OpenPGP key to: https://keyserver.ubuntu.com
+Upload your OpenPGP public key to: https://keyserver.ubuntu.com
 
 Install `devscripts` for building debian packages:
 ```bash
