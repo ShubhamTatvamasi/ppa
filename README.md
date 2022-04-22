@@ -21,6 +21,11 @@ Install package locally:
 sudo apt install ./helloworld_1.0-1.deb
 ```
 
+Check package details:
+```bash
+apt show helloworld
+```
+
 ### Upload
 
 upload package:
