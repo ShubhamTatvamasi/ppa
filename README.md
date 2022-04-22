@@ -1,5 +1,10 @@
 # ppa
 
+Install dput:
+```bash
+sudo apt install dput
+```
+
 build the package:
 ```
 dpkg-deb --build helloworld_1.0-1
