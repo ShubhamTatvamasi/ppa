@@ -1,6 +1,6 @@
 # ppa
 
-Install dput:
+Install `devscripts` for building debian packages:
 ```bash
 sudo apt install devscripts
 ```
