@@ -19,6 +19,11 @@ upload package:
 dput ppa:shubhamtatvamasi/hello helloworld_1.0-1.deb
 ```
 
+Install package locally:
+```bash
+sudo apt install ./helloworld_1.0-1.deb
+```
+
 add repo to the on your system:
 ```bash
 sudo add-apt-repository ppa:shubhamtatvamasi/hello
