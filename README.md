@@ -2,7 +2,7 @@
 
 Install dput:
 ```bash
-sudo apt install dput
+sudo apt install devscripts dput
 ```
 
 build the package:
