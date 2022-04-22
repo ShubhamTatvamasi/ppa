@@ -9,19 +9,23 @@ Install `devscripts` for building debian packages:
 sudo apt install devscripts
 ```
 
+### Build
+
 build the package:
 ```
 dpkg-deb --build helloworld_1.0-1
 ```
 
-upload package:
-```bash
-dput ppa:shubhamtatvamasi/hello helloworld_1.0-1.deb
-```
-
 Install package locally:
 ```bash
 sudo apt install ./helloworld_1.0-1.deb
+```
+
+### Upload
+
+upload package:
+```bash
+dput ppa:shubhamtatvamasi/hello helloworld_1.0-1.deb
 ```
 
 add repo to the on your system:
