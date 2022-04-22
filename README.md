@@ -26,6 +26,11 @@ Check package details:
 apt show helloworld
 ```
 
+Remove package:
+```bash
+sudo apt remove helloworld
+```
+
 ### Upload
 
 upload package:
