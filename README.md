@@ -9,6 +9,11 @@ Install `devscripts` for building debian packages:
 sudo apt install devscripts
 ```
 
+Create changelog:
+```bash
+dch -i --create
+```
+
 ### Build
 
 build the package:
